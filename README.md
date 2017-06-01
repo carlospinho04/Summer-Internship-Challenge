@@ -1,4 +1,4 @@
-# Hacker News Clone
+# Directory
 
 ### Dependencies
 * Ruby 2.3.1p112

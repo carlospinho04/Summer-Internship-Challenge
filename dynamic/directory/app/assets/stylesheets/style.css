@@ -1,0 +1,82 @@
+input[type=text] {
+  width: 130px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+  display: inline-block;
+}
+
+input[type=submit]{
+  padding-top: 50px;
+}
+.name{
+  color: black;
+ text-decoration: none;
+
+}
+input[type=text]:focus {
+  width: 50%;
+
+}
+
+.text{
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-right: 10%;
+  padding-left: 20%;
+  font-size: 50px;
+  font-weight: bold;
+
+}
+
+table{
+  float: left;
+  width: 30%;
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-right: 20px;
+
+}
+
+td{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: justify;
+}
+
+.tables{
+  padding-top: 5%;
+  margin: 0 auto;
+  width: 60%;
+  
+}
+
+.form{
+  width: 20%;
+  padding-left: 20%;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.button{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.email{
+  color: blue;
+
+}
